@@ -1,6 +1,6 @@
 Repositorio do ConectaSeinfra na parte do frontend
 
-Tecnologias sendo usadas atualemente:
+Tecnologias sendo usadas atualmente:
 
 #Front End
 
