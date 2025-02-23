@@ -1,12 +1,12 @@
 Repositorio do ConectaSeinfra na parte do frontend
 
-Tecnologias sendo usadas atualemente:
+Tecnologias sendo usadas atualmente:
 
-#Front End
+# Front End
 
     1.React Node
     2.Typescript
 
-#Banco de Dados
+# Banco de Dados
 
     1.Postgree
